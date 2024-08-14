@@ -1,0 +1,7 @@
+vmWEB
+__pycache__
+*-container.json
+*-result.json
+node_modules/
+package-lock.json
+package.json
