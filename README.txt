@@ -1,7 +1,7 @@
 1. Download and Install SourceTree(https://www.sourcetreeapp.com/)
     1a. Select Bitbucket Option >> Click Next
     1b. Click Skip >> Next
-    1c. Fill Name and Email(Edamama)
+    1c. Fill Name and Email
     1d. Click "No" button
 
 2. Download and Install Visual Studio Code(https://code.visualstudio.com/Download)
